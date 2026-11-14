@@ -9,6 +9,7 @@ Leer tres notas de un estudiante y calcular su promedio. Mostrar el resultado en
 ## Análisis
 
 Este algoritmo lo resolví definiendo primeramente las tres variables que se utilizarían las cuales definí como Real para que se puedan leer decimales también, el proceso de sacar el promedio sumo las tres notas las cuales pongo en un paréntesis y finalmente las divido, la división la hago de esa manera para que pues la división se haga a las tres notas y no solo a la ultima nota, y finamente muestro en pantalla el resultado de promedio calculado de esas tres notas.
+
 ## Pseudocódigo
 
 Algoritmo promedio_notas
