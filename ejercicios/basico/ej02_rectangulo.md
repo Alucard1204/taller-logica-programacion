@@ -35,3 +35,4 @@ FinAlgoritmo
 ![Diagrama de flujo - Área de un Rectángulo](../../diagramas/ej02_rectangulo.png)
 
 ---
+[⬅ Volver al README](../../README.md)

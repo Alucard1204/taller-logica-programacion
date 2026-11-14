@@ -28,3 +28,5 @@ FinAlgoritmo
 ![Diagrama de flujo - Factorial de un Número](../../diagramas/ej07_factorial.png)
 
 ---
+
+[⬅ Volver al README](../../README.md)

@@ -27,3 +27,5 @@ FinAlgoritmo
 
 ![Diagrama de flujo - Suma de Números Pares](../../diagramas/ej06_suma_pares.png)
 
+---
+[⬅ Volver al README](../../README.md)
